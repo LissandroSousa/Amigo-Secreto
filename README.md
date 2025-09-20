@@ -46,7 +46,7 @@ O usuário pode adicionar nomes a uma lista e realizar o sorteio de forma aleat�
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/LissandroSousa/Amigo-Secreto
 ````
 
 2. Acesse a pasta do projeto:
@@ -66,10 +66,4 @@ O usuário pode adicionar nomes a uma lista e realizar o sorteio de forma aleat�
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-Sinta-se à vontade para usar, modificar e compartilhar!
-
-```
 
